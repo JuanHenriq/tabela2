@@ -1,0 +1,31 @@
+table{
+    border-collapse: collapse;
+    margin: auto;
+    width: 60%;    
+    table-layout: fixed;
+    box-shadow: 0px 8px 5px 0px rgba(0, 0, 0, 0.582);
+    text-align: center;
+
+}
+th{
+    border: 1px solid black;
+    text-align: center;
+    background-color: rgb(57, 61, 63);
+    color: white;
+
+}
+td{
+    border: 1px solid rgb(0, 0, 0);
+    padding: 8px;
+    text-align: center;
+}
+tr{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+body{
+    background-color: #73937E;
+}
+.cinza1{
+    background-color: #959595;
+}
